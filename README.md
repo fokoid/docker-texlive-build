@@ -17,3 +17,5 @@ the time the image was built.
 
 * `make`
 * `git`
+* `python3`
+  * `pip`
