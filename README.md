@@ -19,3 +19,4 @@ the time the image was built.
 * `git`
 * `python3`
   * `pip`
+* `drive` Google Drive client
